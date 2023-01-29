@@ -1,0 +1,21 @@
+This is week 1 and 2 of python learning for data science
+Topics :-
+o Variables, Numbers, Strings
+o Lists, Dictionaries, Tuples
+o If condition, for loop
+o Functions, modules
+o Read, write files
+o Exception handling
+o Classes, Objects 
+ Learning Resources
+o Track A (Free)
+ Codebasics python tutorials (first 16) - https://bit.ly/3X6CCC7
+ Codebasics python HINDI tutorials - https://bit.ly/3vmXrgw
+o Track B (Paid with minor fees)
+ Python course: https://codebasics.io/courses/python-for-beginner-andintermediate-learners
+ Assignment
+☐ Track A: Finish all these exercises: https://bit.ly/3k1mof5
+☐ Track B: Finish exercises and quizzes for relevant topics
+☐ Create a professional looking LinkedIn profile
+ Have a clear profile picture, banner image (data scientist loading…)
+ Add tags such as: Open to work etc. 
